@@ -10,3 +10,19 @@ p {
   color: red;
   font-size: 0.8rem;
 }
+
+.btn {
+  opacity: 0.5;
+  color: white;
+  background-color: black;
+  border: 1px solid white;
+  cursor: not-allowed;
+}
+
+.btn-active {
+  font-weight: bold;
+  color: white;
+  background-color: black;
+  border: 1px solid white;
+  cursor: pointer;
+}
